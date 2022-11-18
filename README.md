@@ -1,9 +1,9 @@
 # Ledthinking React/React Native Guidelines (under construction)
 
 ## Summary
-  1.  [Folder Structure](#Folder structure)
+  1.  [Folder Structure](#Folder-structure)
   2.  [Naming](#Naming)
-  3.  [Classes vs Functions](#Classes vs Functions)
+  3.  [Classes vs Functions](#Classes-vs-Functions)
   4.  [Tests](#Tests)
 
 # Folder structure
